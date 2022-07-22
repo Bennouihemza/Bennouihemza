@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bennoui hemza from algeria, and i am a software engineer with 12 years as experience My main responsibilities are :  
+I'm Bennoui hemza from algeria, and i am a software engineer with 12 years as experience My main responsibilities was :  
 - design, 
 - analysis of customer needs, 
 - develop software solutions (website, desktop application).
