@@ -1,9 +1,11 @@
 ### Hi there 👋
-I'm Bennoui hemza i am a software engineer.
-
-UX/UI Designer and Full Stack developer.
-
-now i am interested in vibe coding 
+مرحبا أعرف نفسي كمهندس اعلام آلي و برمجيات خبرة طويلة مع قواعد البيانات و إنشاء المواقع أنا حاليا أستاذ ثانوي للمعلوماتية في الجزائر و أقوم بإنشاء مواقع باستعمال تقنية Vibe coding الممتعة بالاعتماد على AI coder:
+Native PHP
+Mysql
+HTML, CSS, Javascript 
+قد يظنها البعض قديمة لكنها ك : open software platform
+تعتبر غنية جدا و توفر امكانات هائلة و في متناول الجميع 
+مرحبا بكم في فضائي المتواضع لا تترددفي الاتصال  بي لأي سبب كان و لو تقديم النصح و الارشاد تحياتي 
 
 
 
