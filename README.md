@@ -1,11 +1,13 @@
-### Hi there 👋
-مرحبا أعرف نفسي كمهندس اعلام آلي و برمجيات خبرة طويلة مع قواعد البيانات و إنشاء المواقع أنا حاليا أستاذ ثانوي للمعلوماتية في الجزائر و أقوم بإنشاء مواقع باستعمال تقنية Vibe coding الممتعة بالاعتماد على AI coder:
-Native PHP
-Mysql
-HTML, CSS, Javascript 
-قد يظنها البعض قديمة لكنها ك : open software platform
-تعتبر غنية جدا و توفر امكانات هائلة و في متناول الجميع 
-مرحبا بكم في فضائي المتواضع لا تترددفي الاتصال  بي لأي سبب كان و لو تقديم النصح و الارشاد تحياتي 
+Hi, I'm Hemza 👋
+
+Software engineer (10+ years) and computer science teacher, based in Algeria.
+
+I build web applications end-to-end using AI-assisted development (vibe coding) — describing intent to AI coding agents, reviewing and shipping the output, rather than writing every line by hand. This lets me move fast without sacrificing code quality.
+
+Stack: PHP (native), MySQL, HTML/CSS/JavaScript, C#/.NET, SQL Server
+AI tools: Claude Code, GitHub Copilot, ChatGPT
+
+🔭 Currently: teaching CS + building client websites with AI-assisted workflows 💬 Open to remote opportunities in AI-assisted / vibe coding development 📫 Reach me via LinkedIn
 
 
 
